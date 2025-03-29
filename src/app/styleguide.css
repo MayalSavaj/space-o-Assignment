@@ -1,0 +1,10 @@
+:root {
+  --gray-100: rgba(244, 244, 245, 1);
+  --gray-50: rgba(250, 250, 250, 1);
+  --gray-500: rgba(113, 113, 122, 1);
+  --icon-colors: rgba(82, 79, 81, 1);
+  --secondary-text: rgba(102, 112, 133, 1);
+  --table-border-style: rgba(238, 239, 241, 1);
+  --text-primary-color: rgba(35, 37, 41, 1);
+  --white: rgba(255, 255, 255, 1);
+}

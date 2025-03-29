@@ -1,0 +1,47 @@
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.month-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.back-arrow {
+  font-size: 18px;
+  color: #666;
+  cursor: pointer;
+}
+
+.month-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.view-tabs {
+  display: flex;
+  gap: 20px;
+  width: 84%;
+  justify-content: center;
+  padding-right: 11%;
+}
+
+.view-tab {
+  padding: 5px 10px;
+  color: #666;
+  cursor: pointer;
+}
+
+.view-tab.active {
+  border: 1px solid #eee;
+  padding: 6px 16px;
+  color: #666;
+  cursor: pointer;
+  border-radius: 9px;
+  background-color: #f9f9f9;
+}

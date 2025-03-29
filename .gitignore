@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+.next/
+
+
+# package
+package-lock.json
+
+
