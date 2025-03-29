@@ -1,6 +1,6 @@
 "use client";
 
-import Sidebar from "../sidebar/Sidebar";
+import Sidebar from "../Sidebar/Sidebar";
 import Filters from "../Calendar/Filters"
 import TimeNavigation from "../Calendar/TimeNavigation"
 import TeamGrid from "../Calendar/TeamGrid"
